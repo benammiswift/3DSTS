@@ -1,0 +1,12 @@
+--atlas -f rgba8888 -z auto
+controlSprite.png
+dpadTopScreenSprite.png
+dpadUpTopScreenSprite.png
+dpadDownTopScreenSprite.png
+dpadLeftTopScreenSprite.png
+dpadRightTopScreenSprite.png
+cpadTopScreenSprite.png
+wifi_0.png
+wifi_1.png
+wifi_2.png
+wifi_3.png

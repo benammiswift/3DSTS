@@ -1,0 +1,22 @@
+--atlas -f rgba8888 -z auto
+buttonConnect.png
+buttonDisconnect.png
+tabConnection.png
+tabControlValue.png
+buttonIPAddr.png
+cv_list_box.png
+tabConfig.png
+cfgscreensfgarea.png
+cfg_butt_cpad_vert.png
+cfg_butt_cpad_hori.png
+cfg_butt_dpad_vert.png
+cfg_butt_dpad_hori.png
+cfg_butt_l.png
+cfg_butt_a.png
+cfg_butt_b.png
+cfg_butt_x.png
+cfg_butt_y.png
+cfg_butt_r.png
+tickbox.png
+tickbox_ticked.png
+set_cv.png
